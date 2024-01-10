@@ -25,21 +25,21 @@ if you believe it is not reflected, please email us at support@travis-ci.com ins
 
 -->
 
-
-
-
 <!-- ##### BEGIN BUG REPORT ##### -->
 
 # Pre-issue checklist
+
 - [ ] I have searched GitHub issues for potentially related issues
 - [ ] I have read and searched https://docs.travis-ci.com/, in particular, https://docs.travis-ci.com/user/common-build-problems/
 
 <!-- If you have searched for bugs in this repository and still have not found a related issue, include: -->
+
 # Brief description of the bug
 
 # Steps to reproduce the bug
 
 ## Build log URL to show the bug
+
 <!-- If you do not wish to disclose the build log URL, that is fine. Please email support@travis-ci.com **INSTEAD OF** opening a new issue here. -->
 
 # Expected behavior
@@ -50,14 +50,9 @@ if you believe it is not reflected, please email us at support@travis-ci.com ins
 
 <!-- ##### END BUG REPORT ##### -->
 
-
-
-
-
 <!-- ##### BEGIN FEATURE REQUEST ##### -->
 <!-- If you have searched in this repository and still have not found an issue that matches your feature request, include: -->
 
 # Brief description of the feature
 
 <!-- ##### END FEATURE REQUEST ##### -->
-
